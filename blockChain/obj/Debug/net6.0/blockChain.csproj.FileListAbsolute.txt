@@ -1,0 +1,15 @@
+C:\Users\vijitta.alexander\source\repos\AdoEg\blockChain\bin\Debug\net6.0\blockChain.exe
+C:\Users\vijitta.alexander\source\repos\AdoEg\blockChain\bin\Debug\net6.0\blockChain.deps.json
+C:\Users\vijitta.alexander\source\repos\AdoEg\blockChain\bin\Debug\net6.0\blockChain.runtimeconfig.json
+C:\Users\vijitta.alexander\source\repos\AdoEg\blockChain\bin\Debug\net6.0\blockChain.dll
+C:\Users\vijitta.alexander\source\repos\AdoEg\blockChain\bin\Debug\net6.0\blockChain.pdb
+C:\Users\vijitta.alexander\source\repos\AdoEg\blockChain\obj\Debug\net6.0\blockChain.csproj.AssemblyReference.cache
+C:\Users\vijitta.alexander\source\repos\AdoEg\blockChain\obj\Debug\net6.0\blockChain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vijitta.alexander\source\repos\AdoEg\blockChain\obj\Debug\net6.0\blockChain.AssemblyInfoInputs.cache
+C:\Users\vijitta.alexander\source\repos\AdoEg\blockChain\obj\Debug\net6.0\blockChain.AssemblyInfo.cs
+C:\Users\vijitta.alexander\source\repos\AdoEg\blockChain\obj\Debug\net6.0\blockChain.csproj.CoreCompileInputs.cache
+C:\Users\vijitta.alexander\source\repos\AdoEg\blockChain\obj\Debug\net6.0\blockChain.dll
+C:\Users\vijitta.alexander\source\repos\AdoEg\blockChain\obj\Debug\net6.0\refint\blockChain.dll
+C:\Users\vijitta.alexander\source\repos\AdoEg\blockChain\obj\Debug\net6.0\blockChain.pdb
+C:\Users\vijitta.alexander\source\repos\AdoEg\blockChain\obj\Debug\net6.0\blockChain.genruntimeconfig.cache
+C:\Users\vijitta.alexander\source\repos\AdoEg\blockChain\obj\Debug\net6.0\ref\blockChain.dll

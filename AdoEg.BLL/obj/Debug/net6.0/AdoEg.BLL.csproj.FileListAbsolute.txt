@@ -1,0 +1,15 @@
+C:\Users\vijitta.alexander\source\repos\AdoEg\AdoEg.BLL\bin\Debug\net6.0\AdoEg.BLL.deps.json
+C:\Users\vijitta.alexander\source\repos\AdoEg\AdoEg.BLL\bin\Debug\net6.0\AdoEg.BLL.dll
+C:\Users\vijitta.alexander\source\repos\AdoEg\AdoEg.BLL\bin\Debug\net6.0\AdoEg.BLL.pdb
+C:\Users\vijitta.alexander\source\repos\AdoEg\AdoEg.BLL\bin\Debug\net6.0\AdoEg.DAL.dll
+C:\Users\vijitta.alexander\source\repos\AdoEg\AdoEg.BLL\bin\Debug\net6.0\AdoEg.DAL.pdb
+C:\Users\vijitta.alexander\source\repos\AdoEg\AdoEg.BLL\obj\Debug\net6.0\AdoEg.BLL.csproj.AssemblyReference.cache
+C:\Users\vijitta.alexander\source\repos\AdoEg\AdoEg.BLL\obj\Debug\net6.0\AdoEg.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vijitta.alexander\source\repos\AdoEg\AdoEg.BLL\obj\Debug\net6.0\AdoEg.BLL.AssemblyInfoInputs.cache
+C:\Users\vijitta.alexander\source\repos\AdoEg\AdoEg.BLL\obj\Debug\net6.0\AdoEg.BLL.AssemblyInfo.cs
+C:\Users\vijitta.alexander\source\repos\AdoEg\AdoEg.BLL\obj\Debug\net6.0\AdoEg.BLL.csproj.CoreCompileInputs.cache
+C:\Users\vijitta.alexander\source\repos\AdoEg\AdoEg.BLL\obj\Debug\net6.0\AdoEg.BLL.csproj.CopyComplete
+C:\Users\vijitta.alexander\source\repos\AdoEg\AdoEg.BLL\obj\Debug\net6.0\AdoEg.BLL.dll
+C:\Users\vijitta.alexander\source\repos\AdoEg\AdoEg.BLL\obj\Debug\net6.0\refint\AdoEg.BLL.dll
+C:\Users\vijitta.alexander\source\repos\AdoEg\AdoEg.BLL\obj\Debug\net6.0\AdoEg.BLL.pdb
+C:\Users\vijitta.alexander\source\repos\AdoEg\AdoEg.BLL\obj\Debug\net6.0\ref\AdoEg.BLL.dll

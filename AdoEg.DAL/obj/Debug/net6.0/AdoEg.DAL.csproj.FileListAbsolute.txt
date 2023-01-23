@@ -1,0 +1,12 @@
+C:\Users\vijitta.alexander\source\repos\AdoEg\AdoEg.DAL\bin\Debug\net6.0\AdoEg.DAL.deps.json
+C:\Users\vijitta.alexander\source\repos\AdoEg\AdoEg.DAL\bin\Debug\net6.0\AdoEg.DAL.dll
+C:\Users\vijitta.alexander\source\repos\AdoEg\AdoEg.DAL\bin\Debug\net6.0\AdoEg.DAL.pdb
+C:\Users\vijitta.alexander\source\repos\AdoEg\AdoEg.DAL\obj\Debug\net6.0\AdoEg.DAL.csproj.AssemblyReference.cache
+C:\Users\vijitta.alexander\source\repos\AdoEg\AdoEg.DAL\obj\Debug\net6.0\AdoEg.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vijitta.alexander\source\repos\AdoEg\AdoEg.DAL\obj\Debug\net6.0\AdoEg.DAL.AssemblyInfoInputs.cache
+C:\Users\vijitta.alexander\source\repos\AdoEg\AdoEg.DAL\obj\Debug\net6.0\AdoEg.DAL.AssemblyInfo.cs
+C:\Users\vijitta.alexander\source\repos\AdoEg\AdoEg.DAL\obj\Debug\net6.0\AdoEg.DAL.csproj.CoreCompileInputs.cache
+C:\Users\vijitta.alexander\source\repos\AdoEg\AdoEg.DAL\obj\Debug\net6.0\AdoEg.DAL.dll
+C:\Users\vijitta.alexander\source\repos\AdoEg\AdoEg.DAL\obj\Debug\net6.0\refint\AdoEg.DAL.dll
+C:\Users\vijitta.alexander\source\repos\AdoEg\AdoEg.DAL\obj\Debug\net6.0\AdoEg.DAL.pdb
+C:\Users\vijitta.alexander\source\repos\AdoEg\AdoEg.DAL\obj\Debug\net6.0\ref\AdoEg.DAL.dll
